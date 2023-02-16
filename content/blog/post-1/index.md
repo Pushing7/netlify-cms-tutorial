@@ -45,13 +45,14 @@ The 2023 MSR Workshop will be held April 26-28 in San Antonio, Texas. Read more 
 <div className="row">
   <hr />
 
-    <h3>Hotel Information</h3>
-    <address>
-      <a href="https://www.hotelvalencia-riverwalk.com">Hotel Valencia Riverwalk</a><br />
+<h3>Hotel Information</h3>
+<address>
+  <a href="https://www.hotelvalencia-riverwalk.com">Hotel Valencia Riverwalk</a><br />
       150 East Houston St<br />
       San Antonio, TX 78205
-    </address>
-    <p><a className="btn btn-primary" href="https://hotelvalencia.windsurfercrs.com/ibe/details.aspx?propertyid=14484&nights=3&checkin=04/25/2023&group=MW946">Book Your Room</a></p>
+</address>
+
+<p><a className="btn btn-primary" href="https://hotelvalencia.windsurfercrs.com/ibe/details.aspx?propertyid=14484&nights=3&checkin=04/25/2023&group=MW946">Book Your Room</a></p>
     <p><em>Hotel Cutoff Date is Wednesday, April 5, 2023</em></p>
     <p><a href="https://www.hotelvalencia-riverwalk.com/things-to-do-in-san-antonio.htm?_ga=2.9630323.771550126.1660572471-2005813414.1660572471">Things to do in San Antonio</a></p>
 
