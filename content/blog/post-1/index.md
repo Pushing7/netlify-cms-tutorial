@@ -29,10 +29,8 @@ The 2023 MSR Workshop will be held April 26-28 in San Antonio, Texas. Read more 
       <li>$775 Non-Member</li>
     </ul>
     <p>Not a member yet? <a href="/application/">Join Today</a>!</p>
-    <p>
-      <a href="https://msrlpc.regfox.com/2023-msr-workshop" class="btn btn-primary">Register</a>
-    </p>
-  </div>
+<p><a href="https://msrlpc.regfox.com/2023-msr-workshop" class="btn btn-primary">Register</a></p>
+</div>
   <div className="col-lg">
     <div className="bg-2023">
       ![The San Antonio Skyline at dusk.](./2023.jpg)
