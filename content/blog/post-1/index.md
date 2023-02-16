@@ -31,8 +31,6 @@ description: This is a quick test
     <p>
       <a href="https://msrlpc.regfox.com/2023-msr-workshop" class="btn btn-primary">Register</a>
     </p>
-
-    
   </div>
   <div className="col-lg">
     <div className="bg-2023">
