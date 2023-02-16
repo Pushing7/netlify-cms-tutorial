@@ -7,22 +7,23 @@ description: This is a quick test
 ---
 <div className="row workshop">
   <div className="col-lg">
-    Begun in 1995, the MSR Workshop brings together members of the entire lumber supply chain, from production and grading to sales and distribution to end users, and offers a unique opportunity for participants to directly network and gain a broader perspective on the MSR market and opportunities for growth.
+
+Begun in 1995, the MSR Workshop brings together members of the entire lumber supply chain, from production and grading to sales and distribution to end users, and offers a unique opportunity for participants to directly network and gain a broader perspective on the MSR market and opportunities for growth.
     
-    The 2023 MSR Workshop will be held April 26-28 in San Antonio, Texas. Read more about how this unique event has been a valuable experience for many over the past 20+ years:
+The 2023 MSR Workshop will be held April 26-28 in San Antonio, Texas. Read more about how this unique event has been a valuable experience for many over the past 20+ years:
     
-    * <a href="https://issuu.com/componentadvertiser/docs/advertiser_0796894da31179/82">Component Manufacturers Enjoy Valuable Networking &amp; Learning Opportunities at 2022 MSR Workshop</a>
-    * <a href="https://issuu.com/componentadvertiser/docs/advertiser_c1d6b9a3e7b57e/102">Workshop Tour Adds Layer of Unique Learning for All</a>
-    * <a href="https://issuu.com/componentadvertiser/docs/advertiser_65071c0b26ec79/92">Networking Made Easy</a>
+* <a href="https://issuu.com/componentadvertiser/docs/advertiser_0796894da31179/82">Component Manufacturers Enjoy Valuable Networking &amp; Learning Opportunities at 2022 MSR Workshop</a>
+* <a href="https://issuu.com/componentadvertiser/docs/advertiser_c1d6b9a3e7b57e/102">Workshop Tour Adds Layer of Unique Learning for All</a>
+* <a href="https://issuu.com/componentadvertiser/docs/advertiser_65071c0b26ec79/92">Networking Made Easy</a>
     
-    <hr />
-    <h3>Rates and Registration</h3>
-    <p><strong>Early-Bird (Deadline: 3/15/23)</strong></p>
+<hr />
+<h3>Rates and Registration</h3>
+<p><strong>Early-Bird (Deadline: 3/15/23)</strong></p>
     <ul className="mb-2">
       <li>$650 Member</li>
       <li>$725 Non-Member</li>
     </ul>
-    <p><strong>Standard</strong></p>
+<p><strong>Standard</strong></p>
     <ul className="mb-2">
       <li>$700 Member</li>
       <li>$775 Non-Member</li>
